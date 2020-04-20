@@ -92,4 +92,7 @@
         </plugins>
     </build>
 
+    <scm>
+        <developerConnection>scm:git:git@github.com:https://github.com/faruoqi/pet-clinic.git</developerConnection>
+    </scm>
 </project>
