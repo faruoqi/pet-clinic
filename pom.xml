@@ -50,5 +50,6 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/faruoqi/pet-clinic.git</developerConnection>
+        <tag>HEAD</tag>
   </scm>
 </project>
